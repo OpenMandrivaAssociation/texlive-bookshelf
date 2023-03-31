@@ -1,6 +1,6 @@
 Name:		texlive-bookshelf
 Version:	55475
-Release:	1
+Release:	2
 Summary:	Create a nice image from a BibTeX file
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bookshelf
