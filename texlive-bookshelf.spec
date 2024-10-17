@@ -3,7 +3,7 @@ Version:	55475
 Release:	2
 Summary:	Create a nice image from a BibTeX file
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bookshelf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bookshelf
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bookshelf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bookshelf.doc.r%{version}.tar.xz
